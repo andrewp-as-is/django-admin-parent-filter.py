@@ -1,23 +1,17 @@
 <!--
-https://pypi.org/project/readme-generator/
-https://pypi.org/project/python-readme-generator/
-https://pypi.org/project/django-readme-generator/
+https://readme42.com
 -->
 
-[![](https://img.shields.io/pypi/pyversions/django-admin-parent-filter.svg?longCache=True)](https://pypi.org/project/django-admin-parent-filter/)
-[![](https://img.shields.io/pypi/v/django-admin-parent-filter.svg?maxAge=3600)](https://pypi.org/project/django-admin-parent-filter/)
-[![Travis](https://api.travis-ci.org/looking-for-a-job/django-admin-parent-filter.py.svg?branch=master)](https://travis-ci.org/looking-for-a-job/django-admin-parent-filter.py/)
 
-#### Installation
+[![](https://img.shields.io/pypi/v/django-admin-parent-filter.svg?maxAge=3600)](https://pypi.org/project/django-admin-parent-filter/)
+[![](https://img.shields.io/badge/License-Unlicense-blue.svg?longCache=True)](https://unlicense.org/)
+[![](https://github.com/andrewp-as-is/django-admin-parent-filter.py/workflows/tests42/badge.svg)](https://github.com/andrewp-as-is/django-admin-parent-filter.py/actions)
+
+### Installation
 ```bash
 $ [sudo] pip install django-admin-parent-filter
 ```
 
-#### Classes
-class|`__doc__`
--|-
-`django_admin_parent_filter.ParentFilter` |django admin Parent filter
-
 <p align="center">
-    <a href="https://pypi.org/project/django-readme-generator/">django-readme-generator</a>
+    <a href="https://readme42.com/">readme42.com</a>
 </p>

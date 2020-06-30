@@ -1,10 +1,10 @@
-#!/usr/bin/env python
+__all__ = ['ParentFilter']
+
+
 from django.contrib.admin import SimpleListFilter
 from django.utils.safestring import mark_safe
-import public
 
 
-@public.add
 class ParentFilter(SimpleListFilter):
     """django admin Parent filter"""
     model = None
